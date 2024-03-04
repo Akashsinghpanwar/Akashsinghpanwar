@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash singh panwar</h1>
 <div align="center"> <img src="https://cdn.pixabay.com/animation/2023/06/30/07/30/07-30-05-456_512.gif"style="width: 210px; height: 150px;"> </div>
-<h3 align="center">A passionate data analyst and visualization specialist from India.</h3>
+<h3 align="center">A passionate data scientist and machine learning specialist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsinghpanwar&label=Profile%20views&color=0e75b6&style=flat" alt="akashsinghpanwar" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
