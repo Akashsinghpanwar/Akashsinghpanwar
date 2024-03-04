@@ -6,13 +6,13 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-- 🌱 I’m currently learning  **Data analyst and visulization**
+- 🌱 I’m currently learning  **Data science and machine learning and deep learning and AI**
 
-- 💬 Ask me about **Python sql tableau**
+- 💬 Ask me about **Python sql machine learning and model **
 
 - 📫 How to reach me **akashpanwar962@gmail.com**
 
-- ⚡ Fun fact **As a passionate data analyst, I unravel hidden insights from complex datasets, turning numbers into compelling narratives that drive informed decisions and reveal the fascinating stories within the data.**
+- ⚡ Fun fact **Recommender systems, powered by machine learning algorithms, can increase revenue by up to 30% for companies like Amazon and Netflix..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
